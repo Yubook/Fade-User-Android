@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787177694128",
+    "project_id": "fade-b6034",
+    "storage_bucket": "fade-b6034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787177694128:android:b0dfce25fd5b1adefbac75",
+        "android_client_info": {
+          "package_name": "com.youbook.fade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787177694128-to2mh6nktme78bdfkk38u690b5mc0r6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youbook.fade",
+            "certificate_hash": "3d3ed318e526b2dc62c105f8b7b35dc84fb7a9cd"
+          }
+        },
+        {
+          "client_id": "787177694128-otsabvrh9c2e437t7lh9r7srhhum3c77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIV_Oh5cqau7Pof1wEMh-ds2ZQDvnN98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787177694128-otsabvrh9c2e437t7lh9r7srhhum3c77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
